@@ -1,0 +1,15 @@
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\SearchNumber\obj\Debug\net6.0\SearchNumber.csproj.AssemblyReference.cache
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\SearchNumber\obj\Debug\net6.0\SearchNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\SearchNumber\obj\Debug\net6.0\SearchNumber.AssemblyInfoInputs.cache
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\SearchNumber\obj\Debug\net6.0\SearchNumber.AssemblyInfo.cs
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\SearchNumber\obj\Debug\net6.0\SearchNumber.csproj.CoreCompileInputs.cache
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\SearchNumber\bin\Debug\net6.0\SearchNumber.exe
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\SearchNumber\bin\Debug\net6.0\SearchNumber.deps.json
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\SearchNumber\bin\Debug\net6.0\SearchNumber.runtimeconfig.json
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\SearchNumber\bin\Debug\net6.0\SearchNumber.dll
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\SearchNumber\bin\Debug\net6.0\SearchNumber.pdb
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\SearchNumber\obj\Debug\net6.0\SearchNumber.dll
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\SearchNumber\obj\Debug\net6.0\refint\SearchNumber.dll
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\SearchNumber\obj\Debug\net6.0\SearchNumber.pdb
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\SearchNumber\obj\Debug\net6.0\SearchNumber.genruntimeconfig.cache
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\SearchNumber\obj\Debug\net6.0\ref\SearchNumber.dll
