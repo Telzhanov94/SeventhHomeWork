@@ -1,0 +1,15 @@
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ArithmeticMean\obj\Debug\net6.0\ArithmeticMean.csproj.AssemblyReference.cache
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ArithmeticMean\obj\Debug\net6.0\ArithmeticMean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ArithmeticMean\obj\Debug\net6.0\ArithmeticMean.AssemblyInfoInputs.cache
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ArithmeticMean\obj\Debug\net6.0\ArithmeticMean.AssemblyInfo.cs
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ArithmeticMean\obj\Debug\net6.0\ArithmeticMean.csproj.CoreCompileInputs.cache
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ArithmeticMean\bin\Debug\net6.0\ArithmeticMean.exe
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ArithmeticMean\bin\Debug\net6.0\ArithmeticMean.deps.json
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ArithmeticMean\bin\Debug\net6.0\ArithmeticMean.runtimeconfig.json
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ArithmeticMean\bin\Debug\net6.0\ArithmeticMean.dll
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ArithmeticMean\bin\Debug\net6.0\ArithmeticMean.pdb
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ArithmeticMean\obj\Debug\net6.0\ArithmeticMean.dll
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ArithmeticMean\obj\Debug\net6.0\refint\ArithmeticMean.dll
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ArithmeticMean\obj\Debug\net6.0\ArithmeticMean.pdb
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ArithmeticMean\obj\Debug\net6.0\ArithmeticMean.genruntimeconfig.cache
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ArithmeticMean\obj\Debug\net6.0\ref\ArithmeticMean.dll
