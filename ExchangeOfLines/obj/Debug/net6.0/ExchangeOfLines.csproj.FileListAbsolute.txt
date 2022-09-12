@@ -1,0 +1,15 @@
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ExchangeOfLines\obj\Debug\net6.0\ExchangeOfLines.csproj.AssemblyReference.cache
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ExchangeOfLines\obj\Debug\net6.0\ExchangeOfLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ExchangeOfLines\obj\Debug\net6.0\ExchangeOfLines.AssemblyInfoInputs.cache
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ExchangeOfLines\obj\Debug\net6.0\ExchangeOfLines.AssemblyInfo.cs
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ExchangeOfLines\obj\Debug\net6.0\ExchangeOfLines.csproj.CoreCompileInputs.cache
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ExchangeOfLines\bin\Debug\net6.0\ExchangeOfLines.exe
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ExchangeOfLines\bin\Debug\net6.0\ExchangeOfLines.deps.json
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ExchangeOfLines\bin\Debug\net6.0\ExchangeOfLines.runtimeconfig.json
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ExchangeOfLines\bin\Debug\net6.0\ExchangeOfLines.dll
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ExchangeOfLines\bin\Debug\net6.0\ExchangeOfLines.pdb
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ExchangeOfLines\obj\Debug\net6.0\ExchangeOfLines.dll
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ExchangeOfLines\obj\Debug\net6.0\refint\ExchangeOfLines.dll
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ExchangeOfLines\obj\Debug\net6.0\ExchangeOfLines.pdb
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ExchangeOfLines\obj\Debug\net6.0\ExchangeOfLines.genruntimeconfig.cache
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ExchangeOfLines\obj\Debug\net6.0\ref\ExchangeOfLines.dll
