@@ -1,0 +1,15 @@
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\SortingByLines\obj\Debug\net6.0\SortingByLines.csproj.AssemblyReference.cache
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\SortingByLines\obj\Debug\net6.0\SortingByLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\SortingByLines\obj\Debug\net6.0\SortingByLines.AssemblyInfoInputs.cache
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\SortingByLines\obj\Debug\net6.0\SortingByLines.AssemblyInfo.cs
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\SortingByLines\obj\Debug\net6.0\SortingByLines.csproj.CoreCompileInputs.cache
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\SortingByLines\bin\Debug\net6.0\SortingByLines.exe
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\SortingByLines\bin\Debug\net6.0\SortingByLines.deps.json
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\SortingByLines\bin\Debug\net6.0\SortingByLines.runtimeconfig.json
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\SortingByLines\bin\Debug\net6.0\SortingByLines.dll
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\SortingByLines\bin\Debug\net6.0\SortingByLines.pdb
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\SortingByLines\obj\Debug\net6.0\SortingByLines.dll
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\SortingByLines\obj\Debug\net6.0\refint\SortingByLines.dll
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\SortingByLines\obj\Debug\net6.0\SortingByLines.pdb
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\SortingByLines\obj\Debug\net6.0\SortingByLines.genruntimeconfig.cache
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\SortingByLines\obj\Debug\net6.0\ref\SortingByLines.dll
