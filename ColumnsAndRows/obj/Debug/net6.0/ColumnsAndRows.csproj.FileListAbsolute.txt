@@ -1,0 +1,15 @@
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ColumnsAndRows\obj\Debug\net6.0\ColumnsAndRows.csproj.AssemblyReference.cache
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ColumnsAndRows\obj\Debug\net6.0\ColumnsAndRows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ColumnsAndRows\obj\Debug\net6.0\ColumnsAndRows.AssemblyInfoInputs.cache
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ColumnsAndRows\obj\Debug\net6.0\ColumnsAndRows.AssemblyInfo.cs
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ColumnsAndRows\obj\Debug\net6.0\ColumnsAndRows.csproj.CoreCompileInputs.cache
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ColumnsAndRows\bin\Debug\net6.0\ColumnsAndRows.exe
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ColumnsAndRows\bin\Debug\net6.0\ColumnsAndRows.deps.json
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ColumnsAndRows\bin\Debug\net6.0\ColumnsAndRows.runtimeconfig.json
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ColumnsAndRows\bin\Debug\net6.0\ColumnsAndRows.dll
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ColumnsAndRows\bin\Debug\net6.0\ColumnsAndRows.pdb
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ColumnsAndRows\obj\Debug\net6.0\ColumnsAndRows.dll
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ColumnsAndRows\obj\Debug\net6.0\refint\ColumnsAndRows.dll
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ColumnsAndRows\obj\Debug\net6.0\ColumnsAndRows.pdb
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ColumnsAndRows\obj\Debug\net6.0\ColumnsAndRows.genruntimeconfig.cache
+C:\Users\Telzh\Desktop\GB\ДЗ\HWC#Learn\SeventhHomeWork\ColumnsAndRows\obj\Debug\net6.0\ref\ColumnsAndRows.dll
